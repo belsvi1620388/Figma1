@@ -32,8 +32,8 @@ body{
     height: 40px;
     left: 250px;
     top: 56px; 
-    margin-right: 122px;
-    margin-left: 150px;
+    margin-right: 120px;
+    margin-left: 140px;
  
     border: 1px solid #000000;
 }
@@ -56,7 +56,7 @@ body{
     height: 40px;
     left: 1057px;
     top: 56px;
-    margin-left: 122px;
+    margin-left: 100px;
    
     font-family: 'Lato';
     font-weight: 200;
